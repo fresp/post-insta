@@ -4,10 +4,10 @@ require_once APPPATH.'/config/db.config.php'; // Database configuration
 require_once APPPATH.'/config/i18n.config.php'; // i18n configuration
 
 // ASCII Secure random crypto key
-define("CRYPTO_KEY", "NP_CRYPTO_KEY");
+define("CRYPTO_KEY", "def00000aa0080fe91150af57e53d938d356c8688fe3c7e7f3a79cbdd1d930b8acadfe7da8241cecfba816da90103fd35b4f1f5075549b98e1888ce9146e6dd8e9e03199");
 
 // General purpose salt
-define("NP_SALT", "NP_RANDOM_SALT");
+define("NP_SALT", "Oees8465WIiKE4lR");
 
 
 // Path to instagram sessions directory
